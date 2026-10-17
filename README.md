@@ -9,6 +9,7 @@ brew install --cask <app>
 
 | Cask | App |
 |---|---|
+| `mega-meal` | Mega Meal, canteen meal ordering and canteen account |
 | `nuxfon` | nuxfon, SIP softphone for your existing phone system |
 
 The casks are written by each app's release workflow: on a version tag it
