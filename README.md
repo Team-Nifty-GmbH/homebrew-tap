@@ -9,6 +9,7 @@ brew install --cask <app>
 
 | Cask | App |
 |---|---|
+| `nuxfon` | nuxfon, SIP softphone for your existing phone system |
 
 The casks are written by each app's release workflow: on a version tag it
 uploads the notarized zip to `https://apt.team-nifty.com/downloads/<app>/`
