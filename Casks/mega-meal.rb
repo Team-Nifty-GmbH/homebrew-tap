@@ -2,8 +2,8 @@
 # workflow (publish-direct) fills version and sha256 and commits it to the
 # tap. Change anything else here, never in the tap.
 cask "mega-meal" do
-  version "1.18.4"
-  sha256 "708fd6f848684605791860e1949dfb41b58668272176c478892d581e0c87b4f8"
+  version "1.18.5"
+  sha256 "aa4416786683530ff094041bac180554ba4134efbd002e9597db592ec08e9f9e"
 
   url "https://apt.team-nifty.com/downloads/mega-meal/mega-meal-#{version}-macos.zip"
   name "Mega Meal"
