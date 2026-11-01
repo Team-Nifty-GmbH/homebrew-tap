@@ -2,8 +2,8 @@
 # release workflow (publish-direct) fills version and sha256 and commits it
 # to the tap. Change anything else here, never in the tap.
 cask "tn-fernwartung" do
-  version "0.1.0"
-  sha256 "6e5ecdacd544234d53bb39bf27ea76f62fc5dfa8d580e022095beb4b08252c09"
+  version "0.2.0"
+  sha256 "506324db500da9b1e94cf284dedd1bc1cfe29a47592845512304624f5c544453"
 
   url "https://apt.team-nifty.com/downloads/tn-fernwartung/tn-fernwartung-#{version}-macos.dmg"
   name "team nifty Fernwartung"
