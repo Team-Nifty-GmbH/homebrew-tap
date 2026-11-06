@@ -3,8 +3,8 @@
 # fills version and sha256 and commits it to the tap. Change anything else
 # here, never in the tap.
 cask "pickundpack" do
-  version "1.16.0"
-  sha256 "073252a5134a50f269823ce0180c1287b4cc320aaeae7a95b1fc8ce6729059a6"
+  version "1.16.1"
+  sha256 "aef91e17c573f2d50854dfcbfea590ef81eaa862a282dadf1b5cb630d11cc5f1"
 
   url "https://apt.team-nifty.com/downloads/pickundpack/pickundpack-#{version}-macos.zip"
   name "Pick & Pack"
