@@ -2,8 +2,8 @@
 # mobile-release.yml (publish-direct) fills version and sha256 and commits it
 # to the tap. Change anything else here, never in the tap.
 cask "nuxbe-pos" do
-  version "1.8.1"
-  sha256 "2e3c43f16dc6276432c26374e992c1b075687dd8904c812999cb0724f2b99f04"
+  version "1.8.2"
+  sha256 "e80474b9c2c8706ad47f8ddab401f37f6dc30bc5149dd5e4921e463dc460e672"
 
   url "https://apt.team-nifty.com/downloads/nuxbe-pos/nuxbe-pos-#{version}-macos.zip"
   name "Nuxbe PoS"
