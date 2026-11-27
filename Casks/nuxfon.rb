@@ -2,8 +2,8 @@
 # workflow (publish-direct) fills version and sha256 and commits it to the
 # tap. Change anything else here, never in the tap.
 cask "nuxfon" do
-  version "1.1.9"
-  sha256 "691cd8e8b17f75df6c0564b452622f91d9a73f7fdb81ed6cc0c5eb6d106a6f66"
+  version "1.2.0"
+  sha256 "4184d501fce9d62ffd1028868a2f08494335b4327ee17474312d6d5a113e0bb4"
 
   url "https://apt.team-nifty.com/downloads/nuxfon/nuxfon-#{version}-macos.zip"
   name "nuxfon"
